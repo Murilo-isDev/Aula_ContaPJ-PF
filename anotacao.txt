@@ -1,0 +1,23 @@
+Pessoa física
+N. conta
+titular
+saldo
+rendimento
+
+
+
+Pessoa Jurídica
+N. conta
+titular
+saldo
+Limite emprestimo
+
+
+método solicitar emprestimo ( $valor)
+
+deve colocar o valor passado no saldo e tirar do limite de empréstimo 
+
+
+método pagarEmpréstimo( $valor)
+
+aumenta o valor no limite de empréstimo volta ao valor que era antes
